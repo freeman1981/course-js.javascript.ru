@@ -12,6 +12,12 @@
 
 [![preview](./preview.png)](https://course-js.javascript.ru/)
 
+## Tech stack
+
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/javascript.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/css.png" />  
+
 ## Teacher
 
 **Владимир Шевчук**
@@ -20,16 +26,10 @@
 * [<img align="left" alt="CSS3" width="18px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/learn-javascript-logo.png" /> learn.javascript](http://learn.javascript.ru/profile/v-shevchuk)
 * [<img align="left" alt="CSS3" width="18px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/linkedin-logo.png" /> Linkedin](https://www.linkedin.com/in/dosandk/) 
 
-## Tech stack
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/javascript.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/css.png" />
-
 ## To start project in development mode:
 
-`npm install` - установит необходимые зависимости
-`npm run develop` - запустит "WebpackDevServer"
+* `npm install` - установит необходимые зависимости
+* `npm run develop` - запустит "WebpackDevServer"
 
 **Note:** Версии требуемые проектом указаны в `package.json` в поле `engines` 
 
