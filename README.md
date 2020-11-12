@@ -14,17 +14,17 @@
 
 ## Tech stack
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/javascript.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/css.png" />  
+* <img alt="javascript" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/javascript.png" />
+* <img alt="html" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/html.png" />
+* <img alt="CSS" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/css.png" />  
 
 ## Teacher
 
 **Владимир Шевчук**
 
-* [<img align="left" alt="CSS3" width="18px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/github-logo.png" /> GitHub](https://github.com/dosandk)
-* [<img align="left" alt="CSS3" width="18px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/learn-javascript-logo.png" /> learn.javascript](http://learn.javascript.ru/profile/v-shevchuk)
-* [<img align="left" alt="CSS3" width="18px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/linkedin-logo.png" /> Linkedin](https://www.linkedin.com/in/dosandk/) 
+* [<img alt="GitHub" width="18px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/github-logo.png" /> GitHub](https://github.com/dosandk)
+* [<img alt="learn.javascript" width="18px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/learn-javascript-logo.png" /> learn.javascript](http://learn.javascript.ru/profile/v-shevchuk)
+* [<img alt="Linkedin" width="18px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/linkedin-logo.png" /> Linkedin](https://www.linkedin.com/in/dosandk/) 
 
 ## To start project in development mode:
 
