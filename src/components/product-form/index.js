@@ -61,7 +61,7 @@ export default class ProductForm {
     const fetchUrl = this.getFetchUrl(this.productsUrl);
 
     const requestParams = {
-      method: 'PATCH',
+      method: this.productId ? 'PATCH' : 'PUT',
       headers:             {
         'Content-Type': 'application/json;charset=utf-8'
       },
