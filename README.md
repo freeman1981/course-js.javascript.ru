@@ -35,4 +35,4 @@
 
 ## To build project:
 
-`npm run build` - "соберет" проект в "production" режиме
+`npm run build` - "соберет" проект в "production" режиме.
