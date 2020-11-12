@@ -14,11 +14,11 @@
 
 ## Teacher
 
-**Владимир Шевчук** - [dosandk](https://github.com/dosandk)
+**Владимир Шевчук**
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/github-logo.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/learn-javascript-logo.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/linkedin-logo.png" />
+* [<img align="left" alt="CSS3" width="18px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/github-logo.png" /> GitHub](https://github.com/dosandk)
+* [<img align="left" alt="CSS3" width="18px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/learn-javascript-logo.png" /> learn.javascript](http://learn.javascript.ru/profile/v-shevchuk)
+* [<img align="left" alt="CSS3" width="18px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/linkedin-logo.png" /> Linkedin](https://www.linkedin.com/in/dosandk/) 
 
 ## Tech stack
 
