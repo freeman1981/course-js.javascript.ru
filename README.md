@@ -14,9 +14,9 @@
 
 ## Tech stack
 
-* <img alt="javascript" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/javascript.png" />
-* <img alt="html" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/html.png" />
-* <img alt="CSS" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/css.png" />  
+* <img alt="javascript" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/javascript.png" /> Javascript
+* <img alt="html" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/html.png" /> HTML
+* <img alt="CSS" width="26px" src="https://raw.githubusercontent.com/boris-catsvill/course-js.javascript.ru/master/tech-stack/css.png" /> CSS
 
 ## Teacher
 
